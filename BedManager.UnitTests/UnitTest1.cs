@@ -70,7 +70,7 @@ namespace BedManager.UnitTests
             Pat.AssignBed(Bed);
             context.SaveChanges();
             var Result = context.Beds.Where(b => b.Id == Bed.Id).FirstOrDefault();
-            Assert.AreNotEqual(Pat.Id, 0);
+            Assert.AreNotEqual(0, Pat.Id);
             Assert.AreEqual(Pat.Id, Result.PatientId);
             Assert.AreEqual(true, Bed.GetCurrentStatus().IsClean);
         }
