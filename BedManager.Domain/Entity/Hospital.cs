@@ -48,14 +48,11 @@ namespace BedManager.Domain.Entity
             return AllBeds;
         }
 
-        public List<Bed> GetBedClean(BedManagerContext context = null)
+        public List<Bed> GetCleanBeds(BedManagerContext context = null)
         {
-
                 var AllBeds = new List<Bed>();
                 AllBeds = this.Rooms.SelectMany(r => r.Beds).Where(b=> b.BedStatuses.OrderByDescending(bs => bs.Id).FirstOrDefault().IsClean).ToList();
                 return AllBeds;
-
-
         }
 
     }
