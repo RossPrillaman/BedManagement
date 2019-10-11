@@ -32,6 +32,7 @@ namespace BedManager.UnitTests
                 var Pat4 = new Patient("Finn", "Shark");
                 var Bed4 = Room2.AddBed("Descrip_4", true);
                 Pat4.AssignBed(Bed4);
+
                 context.SaveChanges();
                 
         }

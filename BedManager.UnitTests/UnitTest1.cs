@@ -72,7 +72,7 @@ namespace BedManager.UnitTests
             var Result = context.Beds.Where(b => b.Id == Bed.Id).FirstOrDefault();
             Assert.AreNotEqual(Pat.Id, 0);
             Assert.AreEqual(Pat.Id, Result.PatientId);
-            Assert.AreEqual(Bed.GetCurrentStatus().IsClean, 1);
+            Assert.AreEqual(true, Bed.GetCurrentStatus().IsClean);
         }
 
         [TestMethod]
@@ -88,12 +88,13 @@ namespace BedManager.UnitTests
             var room = Hosp.Rooms.First();
             for (int i = 0; i <= room.MaxBeds+1; i++)
             {
-                var Bed = room.AddBed("new Bed x", true);
+                var bedname = string.Format("new Bed {0}", i);
+                var Bed = room.AddBed(bedname, true);
             }
 
             context.SaveChanges();
 
-            Assert.AreEqual(room.Beds.Count(), room.MaxBeds);
+            Assert.AreEqual(room.MaxBeds, room.Beds.Count());
         }
 
     }
