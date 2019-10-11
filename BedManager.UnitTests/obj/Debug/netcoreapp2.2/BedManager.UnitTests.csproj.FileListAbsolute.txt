@@ -1,0 +1,17 @@
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\bin\Debug\netcoreapp2.2\BedManager.Domain.dll
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\obj\Debug\netcoreapp2.2\BedManager.UnitTests.csprojAssemblyReference.cache
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\obj\Debug\netcoreapp2.2\BedManager.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\obj\Debug\netcoreapp2.2\BedManager.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\obj\Debug\netcoreapp2.2\BedManager.UnitTests.AssemblyInfo.cs
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\bin\Debug\netcoreapp2.2\BedManager.UnitTests.deps.json
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\bin\Debug\netcoreapp2.2\BedManager.UnitTests.runtimeconfig.json
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\bin\Debug\netcoreapp2.2\BedManager.UnitTests.runtimeconfig.dev.json
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\bin\Debug\netcoreapp2.2\BedManager.UnitTests.dll
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\bin\Debug\netcoreapp2.2\BedManager.UnitTests.pdb
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\bin\Debug\netcoreapp2.2\BedManager.Domain.pdb
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\obj\Debug\netcoreapp2.2\BedManager.UnitTests.csproj.CopyComplete
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\obj\Debug\netcoreapp2.2\BedManager.UnitTests.dll
+C:\Users\Ross.Prillaman\source\repos\BedManager\BedManager.UnitTests\obj\Debug\netcoreapp2.2\BedManager.UnitTests.pdb
